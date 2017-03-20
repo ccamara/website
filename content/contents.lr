@@ -1,10 +1,8 @@
 _template: hello.html
 ---
-title: Welcome to the Pallets Projects!
+title: Bienvenidos a Mapeado Colaborativo
 ---
 body:
 
-The Pallets Projects are a collection of Python web development libraries that
-were independently developed by Armin Ronacher and later used as the basis of
-the Flask microframework.  Today the Pallets Projects are a community-driven
-organization with the goal to maintain and improve those libraries.
+Un espacio para la creación de mapas colaborativos al servicio de la ciudadanía, como herramientas para la toma de decisiones, compartir experiencias y configurar la forma a través de la que observamos la realidad.
+Nuevas cartografías colaborativas al alcance de todos.
