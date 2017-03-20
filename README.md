@@ -1,5 +1,4 @@
-# Pallets website
+# Web de mapeado colaborativo
 
-[That one website](https://www.palletsprojects.com/). Builds automatically.
+Prototipo de la web de mapeado Colaborativo, usando [lektor](https://www.getlektor.com) ~~plagiando~~ usando como base la web de [Pallets Project](https://www.palletsprojects.com/)
 
-[![Build Status](https://travis-ci.org/pallets/website.svg?branch=master)](https://travis-ci.org/pallets/website)

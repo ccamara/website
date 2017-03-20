@@ -1,0 +1,9 @@
+[project]
+name = Mapeado Colaborativo
+url = https://127.0.0.1:5000/
+url_style = relative
+
+[packages]
+lektor-webpack-support = 0.3
+lektor-markdown-highlighter = 0.1
+lektor-markdown-header-anchors = 0.1
