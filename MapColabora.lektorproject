@@ -7,3 +7,6 @@ url_style = relative
 lektor-webpack-support = 0.3
 lektor-markdown-highlighter = 0.1
 lektor-markdown-header-anchors = 0.1
+
+[servers.ghpages]
+target = ghpages://ccamara/website
